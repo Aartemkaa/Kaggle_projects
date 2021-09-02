@@ -1,1 +1,1 @@
-Kaggle Tabular Playground Challenge August 2021 - Neural Network prediction
+Kaggle Tabular Playground Challenge August 2021 - using Sequential Neural Network for prediction
